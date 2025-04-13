@@ -70,16 +70,16 @@ document.addEventListener('DOMContentLoaded', function() {
 
 const products = [
     // TVs (20 items)
-    { title: "Smart LED TV 55\"", image: "images/tv.jpg", category: "TVs" },
+    { title: "Smart LED TV 55\"", image: "logo.jpg", category: "TVs" },
     { title: "4K  65\"", image: "images/1 (1).jpg", category: "TVs" },
     { title: "OLED Smart  48\"", image: "images/1 (2).jpg", category: "TVs" },
     { title: "QLED  75\"", image: "images/1 (3).jpg", category: "TVs" },
     { title: "HD Ready 32\"", image: "images/1 (4).jpg", category: "TVs" },
     { title: "Android  43\"", image: "images/1 (5).jpg", category: "TVs" },
-    { title: "Curved  55\"", image: "6.jpg", category: "TVs" },
-    { title: "Smart  with Netflix 50\"", image: "7.jpg", category: "TVs" },
-    { title: "4K HDR  58\"", image: "8.jpg", category: "TVs" },
-    { title: "Ultra Slim  40\"", image: "9.jpg", category: "TVs" },
+    { title: "Curved  55\"", image: "images/1 (29).jpg", category: "TVs" },
+    { title: "Smart  with Netflix 50\"", image: "phone.jpg", category: "TVs" },
+    { title: "4K HDR  58\"", image: "images/1 (30).jpg", category: "TVs" },
+    { title: "Ultra Slim  40\"", image: "tv.jpg", category: "TVs" },
     { title: "Gaming 5\"", image: "image/1 (100).jpg", category: "TVs" },
     { title: "Smart h Alexa 55\"", image: "images/1 (11).jpg", category: "TVs" },
     { title: "LED32\" Basic", image: "images/1 (12).jpg", category: "TVs" },
